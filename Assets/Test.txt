@@ -1,0 +1,2 @@
+id,name,type,cost,rarity
+1,Fireball,Spell,4,2
